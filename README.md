@@ -3,7 +3,7 @@
 Blog link:  https://medium.com/@suryatejaparvata/kfc-clone-react-538456a9df43 
 Deploy link: https://mellow-froyo-f88246.netlify.app/
 
-1. As Title of the project said, this Project is completely cloned over the ract.js frame work.
+1. As Title of the project said, this Project is completely cloned over the react.js frame work.
 -> Tech Stack used in this project is 
   a. html
   b. react.js
